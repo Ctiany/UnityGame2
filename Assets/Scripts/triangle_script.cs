@@ -1,9 +1,5 @@
 using System;
-using System.Xml;
-using Unity.Tutorials.Editor;
-using UnityEditor.Callbacks;
 using UnityEngine;
-using UnityEngine.UIElements;
 public class mysterious_obj: MonoBehaviour
 {
     private float speed;
