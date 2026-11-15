@@ -1013,12 +1013,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bc18848e6dbf9ff2d97cf5e662650f75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  layer_separation_pt: 100
-  number_of_layers: 0
-  number_per_layer: 30
-  speed: 0.1
+  layer_separation_pt: 150
+  number_of_layers: 20
+  number_per_layer: 25
+  speed: 100
   void_layers: 2
-  linear_angular: 1
+  linear_angular: 0
   center_obj: {fileID: 1072664537}
   yellow_circle_obj: {fileID: 2201347240995605970, guid: 2e3bc23533c163bbeb38e0a4b88a2e03, type: 3}
 --- !u!1660057539 &9223372036854775807
